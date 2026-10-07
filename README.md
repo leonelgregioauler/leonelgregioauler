@@ -2,6 +2,8 @@
 
 Desenvolvedor focado em soluções robustas para ecossistemas Web, Mobile e Banco de Dados.
 
+Criando soluções que conectam pessoas e negócios.
+
 ---
 
 ### 🛠️ Tech Stack & Especialidades
@@ -17,5 +19,5 @@ Desenvolvedor focado em soluções robustas para ecossistemas Web, Mobile e Banc
 
 ### 📫 Redes & Contato
 
-- ✉️️ **E-mail:** leonel.lga@gmail.com[cite: 2]
-- 📍 **Localização:** Taquara, RS - Brasil[cite: 2]
+- ✉️️ **E-mail:** leonel.lga@gmail.com
+- 📍 **Localização:** Taquara, RS - Brasil
