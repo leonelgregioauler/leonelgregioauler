@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Redes & Contato
 
 - ✉️ **E-mail:** [leonel.lga@gmail.com](mailto:leonel.lga@gmail.com)
